@@ -1,7 +1,7 @@
 # Surabhi_Portfolio
 
 
-# [Project1: Employee Retention Prediction Project](https://github.com/Surabhi-1996/Human_Resources)
+# [Project 1: Employee Retention Prediction Project](https://github.com/Surabhi-1996/Human_Resources)
 
 ## With collected extensive data of employees, we are going to develop a model that could predict which employees are most likey to quit.
 
@@ -15,7 +15,7 @@
   - Deep Learning model using Keras
 
 
-# [Project2: Movie Review using Text Classification Method](https://github.com/Surabhi-1996/movie_review1)
+# [Project 2: Movie Review using Text Classification Method](https://github.com/Surabhi-1996/movie_review1)
 
 ## In this project we'll try to develop a classification model - that is, we'll try to predict the Positive/Negative labels based on text content alone for movie review dataset.
 
@@ -28,7 +28,7 @@
 -Run predictions and analyze the results 
 
 
-# [Project3: Classifying disease using Deep Learning](https://github.com/Surabhi-1996/disease_xray_classification)
+# [Project 3: Classifying disease using Deep Learning](https://github.com/Surabhi-1996/disease_xray_classification)
 
 ## We will automate the process of detecting and classifying chest diseases. 
 
@@ -45,7 +45,7 @@
 - Evaluate trained deep learning model
 
 
-# [Project4: Topic Modeling using Latent Dirichlet Allocation and Non-negative Matrix Factorization](https://github.com/Surabhi-1996/topic_modeling)
+# [Project 4: Topic Modeling using Latent Dirichlet Allocation and Non-negative Matrix Factorization](https://github.com/Surabhi-1996/topic_modeling)
 
 ## We are using npr dataset, which contains comprehensive identity database for every usual resident in the country.
 
@@ -64,7 +64,7 @@
   - edu
 
 
-# [Project5: Russian License Plate Blurring](https://github.com/Surabhi-1996/object_detection)
+# [Project 5: Russian License Plate Blurring](https://github.com/Surabhi-1996/object_detection)
 
 ## We are using Cascade Classifier(Haar Cascade) to detect the object in an image.
 
@@ -76,7 +76,7 @@
 - Create a blurred version of the ROI (the license plate) we will want to paste this blurred image back on to the original image at the same original location.
 
 
-# [Project6: Text Generation using LSTM](https://github.com/Surabhi-1996/text_generation)
+# [Project 6: Text Generation using LSTM](https://github.com/Surabhi-1996/text_generation)
 
 ## Moby-Dick is a novel by American writer Harman Melville. We have used Moby-Dick Chapter-4 dataset for training purpose.
 
@@ -90,7 +90,7 @@ We are using Keras,spacy,LSTM and Embedding layers in this project.
 - Function to generate new text
 
 
-# [Project7: Movie Review using Sentiment Analysis](https://github.com/Surabhi-1996/movie_review2)
+# [Project 7: Movie Review using Sentiment Analysis](https://github.com/Surabhi-1996/movie_review2)
 
 ## With movie reviews dataset, we are going to predict the labels(positive or negative) using sentiment analysis method.
 
